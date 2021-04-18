@@ -5,7 +5,7 @@ Préparation:
 Installez <a href="https://nodejs.org/fr/download/">Node JS</a>
 
 1. Lancer "prep.bat" pour préparer les fichiers requis pour le bot
-2. Ajoutez ensuite le token de votre bot dans config.json (<a href="https://discord.com/developers/applications">Discord Dev Portal</a>)
+2. Ajoutez ensuite le token de votre bot dans config.json (<a href="https://discord.com/developers/applications">Discord Dev Portal</a>)<br>
   2.1 Cliquez sur "New Application" puis donnez-lui un nom puis faite "Create"<br>
   2.2 Aller ensuite dans l'onglet "Bot" sur le coté puis faite "Add Bot" et enfin "Yes, do'it!"<br>
   2.3 Ensuite vous n'avez plus qu'a copier son token !<br>

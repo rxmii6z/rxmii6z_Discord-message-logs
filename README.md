@@ -1,7 +1,7 @@
 # rxmii6z_Discord-message-logs
-(Version 1.1.0) - Ajout du nom du channel (13h:16m:57s, Le Sun Apr 18 2021 [! ! ! a1-rxmii6z] a envoyer dans #moderator-only: test)
-(Version 1.0.1) - Date plus propre (13h:16m:57s, Le Sun Apr 18 2021 [! ! ! a1-rxmii6z] a envoyer: test)
-(Version 1.0) - Des logs enregistrés sur votre pc en fonction des messages envoyés
+(Version 1.1.0) - Ajout du nom du channel (13h:16m:57s, Le Sun Apr 18 2021 [! ! ! a1-rxmii6z] a envoyer dans #moderator-only: test) <br>
+(Version 1.0.1) - Date plus propre (13h:16m:57s, Le Sun Apr 18 2021 [! ! ! a1-rxmii6z] a envoyer: test) <br>
+(Version 1.0) - Des logs enregistrés sur votre pc en fonction des messages envoyés <br>
 
 Préparation:
 Installez <a href="https://nodejs.org/fr/download/">Node JS</a>

@@ -13,7 +13,7 @@ client.on('ready', () => {
 client.on('message', message => {
     const d = message.createdAt;
     let date = d.getHours() + "h:" + d.getMinutes() + "m:" + d.getSeconds() + "s, " + d.toDateString();
-    let logs_msg = date +  " [" + message.author.username + "] a envoyer: " + message.content;
+    let logs_msg = date +  " [" + message.author.username + "] a envoyer dans #" + message.channel.name + ": " + message.content;
     console.log(logs_msg + ('\n'))
     // Le "\n" sert à sauter une ligne pour que les messages ne s'aligne pas dans les logs
     fs.appendFileSync('data/msg_logs.txt', logs_msg + ('\n'))
